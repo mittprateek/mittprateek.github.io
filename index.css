@@ -3,7 +3,7 @@ html {
 }
 
 h1 {
-  color:#000080;
+  color:#006400;
 }
 
 h2 {
@@ -20,9 +20,9 @@ table, th, td {
   font-family: 'Castoro', serif;
 
 }
-h1, h3, h4, h5 {
+ h3, h4, h5 {
   font-family: 'Castoro', serif;
-    color:#000080;
+    color:#00CED1;
 }
 .darkblue {
     background-color: 	 #0000cd;
